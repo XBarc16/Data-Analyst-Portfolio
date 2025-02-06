@@ -21,6 +21,8 @@ EV manufacturers & automotive industry
 Energy & utility companies
 Environmental organizations
 Investors & market analysts
+
+
 2. Data Collection Requirements
 
 Data Sources:
@@ -48,6 +50,8 @@ Missing or Incomplete Data Handling:
 
 If vehicle details are missing, interpolate using average values
 CAFV eligibility might need external verification
+
+
 3. Data Cleaning & Preparation
 
 Handling Missing Values:
@@ -71,6 +75,9 @@ Consistent naming conventions for manufacturers and vehicle models
 Detecting Outliers:
 
 Identify extreme electric range values or misclassified models
+
+
+
 4. Data Transformation & Processing
 
 Data Aggregation:
@@ -93,6 +100,8 @@ Combined vehicle registration data with CAFV eligibility lists
 Language Translation:
 
 Not required as the dataset is in English
+
+
 5. Data Security & Compliance
 
 Data Privacy Considerations:
@@ -110,6 +119,8 @@ Secure handling of registration records
 Backup & Recovery Plan:
 
 Maintain copies of datasets for trend analysis
+
+
 6. Data Analysis & Modeling Requirements
 
 Exploratory Data Analysis (EDA):
@@ -132,6 +143,8 @@ Business Metrics & KPIs:
 % of EVs that are BEVs vs. PHEVs
 Total vehicles by state and manufacturer market share
 CAFV eligibility rates
+
+
 7. Data Visualization & Reporting
 
 Visualization Tools:
@@ -151,6 +164,8 @@ Interactivity Needs:
 
 Filters for city, electric utility, and vehicle type
 Drill-down options for in-depth analysis
+
+
 8. Interpretation & Insights Presentation
 
 Key Findings:
