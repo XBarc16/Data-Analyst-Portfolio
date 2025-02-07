@@ -1,14 +1,14 @@
 # Excel-Bank-Loans-Analysis 
 
 ## Table of Contents
-- [Porject Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#ProjectOverview&Objectives)
-- [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#DataCollectionRequirements)
-- [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#DataCleaning&Preparation)
-- [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#DataTransformation&Processing)
-- [Data Security & Compliance](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#DataSecurity&Compliance)
-- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#DataAnalysis&ModelingRequirements) 
-- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#DataVisualization&Reporting)
-- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Interpretation&InsightsPresentation)
+- [Porject Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Project-Overview-&-Objectives)
+- [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Data-Collection-Requirements)
+- [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Data-Cleaning-&-Preparation)
+- [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Data-Transformation-&-Processing)
+- [Data Security & Compliance](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Data-Security-&-Compliance)
+- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Data-Analysis-&-Modeling-Requirements) 
+- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Data-Visualization-&-Reporting)
+- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Interpretation-&-Insights-Presentation)
 
 ## Project Overview & Objectives
 
