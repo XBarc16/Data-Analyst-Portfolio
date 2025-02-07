@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Porject Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#1.ProjectOverview&Objectives)
-- [Data Collection Requirements](https://github.com/XBarc16/Xbarc16/blob/main/README.md#education)
+- [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#2.DataCollectionRequirements)
 - [Data Cleaning & Preparation](https://www.kaggle.com/xavierberge)  
 - [Data Transformation & Processing](https://github.com/XBarc16/Xbarc16/blob/main/README.md#certificates)
 - [Data Security & Compliance]( https://github.com/XBarc16/Xbarc16/blob/main/README.md#contacts)
