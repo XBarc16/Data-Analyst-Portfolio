@@ -30,7 +30,7 @@ Marketing & Sales Teams: To identify customer loan needs.
 
 ## Data Collection Requirements
 
-Data Sources:
+### Data Sources:
 
 Internal databases (loan management systems, CRM, financial records).
 External market research on interest rates and economic indicators.
@@ -40,10 +40,12 @@ Structured data CSV.
 Data Volume & Frequency:
 
 Data collected monthly with real-time updates on loan applications.
-Data Access & Permissions:
+
+### Data Access & Permissions:
 
 Requires role-based access control for sensitive financial data.
-Missing or Incomplete Data Handling:
+
+### Missing or Incomplete Data Handling:
 
 Strategy: Imputation (average values), flagging, and filtering incomplete records.
 
@@ -77,14 +79,14 @@ Business Metrics & KPIs: Loan approval rate, default rate, average funded amount
 
 ## Data Visualization & Reporting
 
-Visualization Tools: Power BI (as seen in the images), Tableau.
+Visualization Tools: Excel (as seen in the images).
 Report Format: Interactive dashboards.
 Target Audience: Bank executives, analysts, and compliance teams.
 Interactivity Needs: Filters for loan type, grade, purpose, and term.
 
 ## Interpretation & Insights Presentation
 
-Key Findings:
+### Key Findings:
 
 86.18% of loans are "good", while 13.82% are "bad".
 High loan applications in California and a steady increase in loan demand over time.
@@ -94,11 +96,13 @@ Actionable Recommendations:
 Reduce interest rates for lower-risk customers to increase loan uptake.
 Strengthen risk assessment models for high-DTI borrowers.
 Expand targeted marketing for home improvement and car loans.
-Limitations & Assumptions:
+
+### Limitations & Assumptions:
 
 Assumes that historical trends will continue.
 External economic factors (inflation, interest rate policies) may impact findings.
-Next Steps & Future Work:
+
+### Next Steps & Future Work:
 
 Integrate customer credit scores for more precise risk modeling.
 Predict future default rates using machine learning.
