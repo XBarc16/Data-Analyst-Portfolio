@@ -1,4 +1,15 @@
 # Excel-Bank-Loans-Analysis 
+
+## Table of Contents
+- [Porject Overview & Objectives]([https://github.com/XBarc16/Xbarc16/blob/main/README.md](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#1. Project Overview & Objectives)
+- [Data Collection Requirements](https://github.com/XBarc16/Xbarc16/blob/main/README.md#education)
+- [Data Cleaning & Preparation](https://www.kaggle.com/xavierberge)  
+- [Data Transformation & Processing](https://github.com/XBarc16/Xbarc16/blob/main/README.md#certificates)
+- [Data Security & Compliance]( https://github.com/XBarc16/Xbarc16/blob/main/README.md#contacts)
+- [Data Analysis & Modeling Requirements](https://www.kaggle.com/xavierberge)  
+- [Data Visualization & Reporting](https://github.com/XBarc16/Xbarc16/blob/main/README.md#certificates)
+- [Interpretation & Insights Presentation]( https://github.com/XBarc16/Xbarc16/blob/main/README.md#contacts)
+
 ## 1. Project Overview & Objectives
 
 Business Problem/Objective:
