@@ -60,7 +60,7 @@ Requires access to customer databases for analytics.
 Imputation for missing values.
 Filtering out incomplete records.
 
-Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 ### Handling Missing Values:
 
