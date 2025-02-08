@@ -1,7 +1,7 @@
 # Excel-Road-Accident-Analysis
 
 ## Table of Contents
-- [Porject Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Project-Overview--Objectives)
+- [Project Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Project-Overview--Objectives)
 - [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Data-Collection-Requirements)
 - [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Data-Cleaning--Preparation)
 - [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Data-Transformation--Processing)
