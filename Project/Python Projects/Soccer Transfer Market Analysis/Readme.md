@@ -120,7 +120,7 @@ Data likely stored securely in internal systems
 
 Club likely retains historical transfer records
 
-Data Analysis & Modeling Requirements
+## Data Analysis & Modeling Requirements
 
 ### Exploratory Data Analysis (EDA):
 
