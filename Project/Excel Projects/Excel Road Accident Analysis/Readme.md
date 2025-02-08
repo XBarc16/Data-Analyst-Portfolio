@@ -30,8 +30,13 @@ Traffic authorities, policymakers, insurance companies, and emergency response t
 
 ## Data Collection Requirements
 
-Data Sources: Likely sourced from government accident reports, transportation agencies, and traffic monitoring databases.
-Data Format: Structured (Excel, Power BI dashboard).
+### Data Sources: 
+
+Likely sourced from government accident reports, transportation agencies, and traffic monitoring databases.
+
+### Data Format: 
+
+Structured (Excel, Power BI dashboard).
 
 ### Data Volume & Frequency:
 
@@ -42,38 +47,66 @@ Missing or Incomplete Data Handling: Corrected entry errors on columns Accident 
 
 ## Data Cleaning & Preparation
 
-Handling Missing Values: Not applicable.
-Removing Duplicates: Not applicable.
+### Handling Missing Values: 
 
-Correcting Data Types: Not applicable.
-Standardizing Data:  
+Not applicable.
+
+### Removing Duplicates: 
+
+Not applicable.
+
+### Correcting Data Types: 
+
+Not applicable.
+
+### Standardizing Data:  
 
 ·        Replaced the Single carriageway data with Roadway in column Junction Detail.
 
 ·        Replaced the Dual carriageway data with Freeway in column Junction Detail.
 
-Replaced the Slip Road data with On ramps in column Junction Detail.
-Detecting Outliers: Not Applicable.
+·        Replaced the Slip Road data with On ramps in column Junction Detail.
+
+### Detecting Outliers:
+
+Not Applicable.
 
 ## Data Transformation & Processing
 
-Data Aggregation: 
+### Data Aggregation: 
+
 Casualties are summarized by severity, vehicle type, road type, location, and light condition.
 Feature Engineering: Not Applicable.
 
-Normalization/Scaling: 
+### Normalization/Scaling: 
+
 Not required for visualization, but needed for statistical modeling.
 
-Data Merging & Integration: 
+### Data Merging & Integration: 
+
 Multiple datasets (vehicle types, weather, road conditions) are combined.
-Language Translation: Not required (all data in English), see Standardizing Data.
+
+### Language Translation: 
+
+Not required (all data in English), see Standardizing Data.
 
 ## Data Security & Compliance
 
-Data Privacy Considerations: No personally identifiable information (PII) is displayed.
-Regulatory Compliance: Must comply with transportation safety and data-sharing policies.
-Data Encryption & Security: Not Applicable.
-Backup & Recovery Plan: Not Applicable.
+### Data Privacy Considerations: 
+
+No personally identifiable information (PII) is displayed.
+
+### Regulatory Compliance: 
+
+Must comply with transportation safety and data-sharing policies.
+
+### Data Encryption & Security: 
+
+Not Applicable.
+
+### Backup & Recovery Plan: 
+
+Not Applicable.
 
 ## Data Analysis & Modeling Requirements
 
@@ -81,8 +114,14 @@ Backup & Recovery Plan: Not Applicable.
 
 Year-over-year trends.
 Distribution of casualties by vehicle type, road type, and conditions.
-Statistical Methods: Trend analysis: Not used, but further methods like regression or clustering could be applied.
-Machine Learning Models: Not used visible but could be put in place for accident prediction.
+
+### Statistical Methods: 
+
+Trend analysis: Not used, but further methods like regression or clustering could be applied.
+
+### Machine Learning Models: 
+
+Not used visible but could be put in place for accident prediction.
 
 ### Business Metrics & KPIs:
 
@@ -92,10 +131,21 @@ Accident trends over time.
 
 ## Data Visualization & Reporting
 
-Visualization Tools: Excel.
-Report Format: Interactive dashboard with filters.
-Target Audience: Transportation safety authorities, and policymakers.
-Interactivity Needs: Users can filter by date and rural/urban locations.
+### Visualization Tools: 
+
+Excel.
+
+### Report Format: 
+
+Interactive dashboard with filters.
+
+### Target Audience: 
+
+Transportation safety authorities, and policymakers.
+
+### Interactivity Needs: 
+
+Users can filter by date and rural/urban locations.
 
 ## Interpretation & Insights Presentation
 
