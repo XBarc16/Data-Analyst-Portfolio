@@ -1,7 +1,7 @@
 # Excel-Bank-Loans-Analysis 
 
 ## Table of Contents
-- [Porject Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Project-Overview--Objectives)
+- [Project Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Project-Overview--Objectives)
 - [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Data-Collection-Requirements)
 - [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Data-Cleaning--Preparation)
 - [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20%20Bank%20Loans%20Analysis/Readme.md#Data-Transformation--Processing)
@@ -12,17 +12,18 @@
 
 ## Project Overview & Objectives
 
-Business Problem/Objective:
+### Business Problem/Objective:
 Analyze bank loan applications, approvals, and repayments to assess financial performance, risk management, and customer trends.
 
-Key Questions:
+### Key Questions:
 
 What is the total number of loan applications and how has it changed over time?
 How much has been funded and received?
 What percentage of loans are classified as good vs. bad?
 How do loan applications vary by purpose, state, term, and employment length?
 What are the trends in interest rates and Debt-to-Income (DTI) ratios?
-Stakeholders:
+
+### Stakeholders:
 
 Bank Executives & Management: To monitor overall financial health.
 Risk & Compliance Teams: To assess default risks and DTI trends.
@@ -31,58 +32,89 @@ Marketing & Sales Teams: To identify customer loan needs.
 ## Data Collection Requirements
 
 ### Data Sources:
-
 Internal databases (loan management systems, CRM, financial records).
 External market research on interest rates and economic indicators.
-Data Format:
 
+### Data Format:
 Structured data CSV.
-Data Volume & Frequency:
 
+### Data Volume & Frequency:
 Data collected monthly with real-time updates on loan applications.
 
 ### Data Access & Permissions:
-
 Requires role-based access control for sensitive financial data.
 
 ### Missing or Incomplete Data Handling:
-
 Strategy: Imputation (average values), flagging, and filtering incomplete records.
 
 ## Data Cleaning & Preparation
 
-Handling Missing Values: Replace missing interest rates and DTI values using median imputation.
-Removing Duplicates: Ensure no duplicate loan applications exist.
-Correcting Data Types: Convert monetary values and percentages appropriately.
-Standardizing Data: Ensure loan term consistency (e.g., 36 vs. 60 months).
-Detecting Outliers: Identify abnormal interest rates and DTI ratios.
+### Handling Missing Values: 
+Replace missing interest rates and DTI values using median imputation.
+
+### Removing Duplicates: 
+Ensure no duplicate loan applications exist.
+
+### Correcting Data Types: 
+Convert monetary values and percentages appropriately.
+
+### Standardizing Data: 
+Ensure loan term consistency (e.g., 36 vs. 60 months).
+
+### Detecting Outliers: 
+Identify abnormal interest rates and DTI ratios.
 
 ## Data Transformation & Processing
 
-Data Aggregation: Monthly and state-level summaries of loan applications.
-Feature Engineering: Create "Good Loan %" and "Bad Loan %" based on repayments.
-Normalization/Scaling: Adjust loan amounts for fair comparisons.
-Data Merging & Integration: Combine loan data with customer demographic details.
+### Data Aggregation: 
+Monthly and state-level summaries of loan applications.
+
+### Feature Engineering: 
+Create "Good Loan %" and "Bad Loan %" based on repayments.
+
+### Normalization/Scaling: 
+Adjust loan amounts for fair comparisons.
+
+### Data Merging & Integration: 
+Combine loan data with customer demographic details.
 
 ## Data Security & Compliance
 
-Data Privacy Considerations: Customer identities anonymized.
-Regulatory Compliance: Compliance with financial regulations (GDPR, banking laws).
-Data Encryption & Security: Secure data storage with encryption.
-Backup & Recovery Plan: Cloud-based backup solutions.
+### Data Privacy Considerations: 
+Customer identities anonymized.
+
+### Regulatory Compliance: 
+Compliance with financial regulations (GDPR, banking laws).
+### Data Encryption & Security: 
+Secure data storage with encryption.
+
+### Backup & Recovery Plan: 
+Cloud-based backup solutions.
 
 ## Data Analysis & Modeling Requirements
 
-Exploratory Data Analysis (EDA): Identify trends in loan applications, funding, and defaults.
-Statistical Methods: Regression analysis for interest rate trends and default prediction.
-Business Metrics & KPIs: Loan approval rate, default rate, average funded amount.
+### Exploratory Data Analysis (EDA): 
+Identify trends in loan applications, funding, and defaults.
+
+### Statistical Methods: 
+Regression analysis for interest rate trends and default prediction.
+
+### Business Metrics & KPIs: 
+Loan approval rate, default rate, average funded amount.
 
 ## Data Visualization & Reporting
 
-Visualization Tools: Excel (as seen in the images).
-Report Format: Interactive dashboards.
-Target Audience: Bank executives, analysts, and compliance teams.
-Interactivity Needs: Filters for loan type, grade, purpose, and term.
+### Visualization Tools: 
+Excel (as seen in the images).
+
+### Report Format: 
+Interactive dashboards.
+
+### Target Audience: 
+Bank executives, analysts, and compliance teams.
+
+### Interactivity Needs: 
+Filters for loan type, grade, purpose, and term.
 
 ## Interpretation & Insights Presentation
 
