@@ -23,7 +23,8 @@ What is the total number of casualties and their severity (fatal, serious, sligh
 What types of vehicles are most involved in accidents?
 What road conditions contribute to accidents?
 What are the trends in accidents over time?
-Stakeholders:
+
+### Stakeholders:
 
 Traffic authorities, policymakers, insurance companies, and emergency response teams.
 
@@ -56,10 +57,15 @@ Detecting Outliers: Not Applicable.
 
 ## Data Transformation & Processing
 
-Data Aggregation: Casualties are summarized by severity, vehicle type, road type, location, and light condition.
+Data Aggregation: 
+Casualties are summarized by severity, vehicle type, road type, location, and light condition.
 Feature Engineering: Not Applicable.
-Normalization/Scaling: Not required for visualization, but needed for statistical modeling.
-Data Merging & Integration: Multiple datasets (vehicle types, weather, road conditions) are combined.
+
+Normalization/Scaling: 
+Not required for visualization, but needed for statistical modeling.
+
+Data Merging & Integration: 
+Multiple datasets (vehicle types, weather, road conditions) are combined.
 Language Translation: Not required (all data in English), see Standardizing Data.
 
 ## Data Security & Compliance
