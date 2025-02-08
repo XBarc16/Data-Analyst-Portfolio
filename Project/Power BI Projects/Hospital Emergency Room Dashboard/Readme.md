@@ -6,9 +6,9 @@
 - [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Hospital%20Emergency%20Room%20Dashboard/Readme.md#Data-Cleaning--Preparation)
 - [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Hospital%20Emergency%20Room%20Dashboard/Readme.md#Data-Transformation--Processing)
 - [Data Security & Compliance](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Hospital%20Emergency%20Room%20Dashboard/Readme.md#Data-Security--Compliance)
-- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Hospital%20Emergency%20Room%20Dashboard/Readme.md#Project-Overview--Objectives#Data-Analysis--Modeling-Requirements) 
-- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Hospital%20Emergency%20Room%20Dashboard/Readme.md#Project-Overview--Objectives#Data-Visualization--Reporting)
-- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Hospital%20Emergency%20Room%20Dashboard/Readme.md#Project-Overview--Objectives#Interpretation--Insights-Presentation)
+- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Hospital%20Emergency%20Room%20Dashboard/Readme.md#Data-Analysis--Modeling-Requirements) 
+- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Hospital%20Emergency%20Room%20Dashboard/Readme.md#Data-Visualization--Reporting)
+- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Hospital%20Emergency%20Room%20Dashboard/Readme.md#Interpretation--Insights-Presentation)
 
 ## Project Overview & Objectives
 
