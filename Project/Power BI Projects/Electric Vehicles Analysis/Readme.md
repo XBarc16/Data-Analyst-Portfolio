@@ -2,13 +2,13 @@
 
 ## Table of Contents
 - [Project Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Project-Overview--Objectives)
-- [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Project-Overview--Objectives#Data-Collection-Requirements)
-- [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Project-Overview--Objectives#Data-Cleaning--Preparation)
-- [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Project-Overview--Objectives#Data-Transformation--Processing)
-- [Data Security & Compliance](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Project-Overview--Objectives#Data-Security--Compliance)
-- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Project-Overview--Objectives#Data-Analysis--Modeling-Requirements) 
-- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Project-Overview--Objectives#Data-Visualization--Reporting)
-- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Project-Overview--Objectives#Interpretation--Insights-Presentation)
+- [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Data-Collection-Requirements)
+- [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Data-Cleaning--Preparation)
+- [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Data-Transformation--Processing)
+- [Data Security & Compliance](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Data-Security--Compliance)
+- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Data-Analysis--Modeling-Requirements) 
+- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Data-Visualization--Reporting)
+- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Electric%20Vehicles%20Analysis/Readme.md#Interpretation--Insights-Presentation)
 
 
 ## Project Overview & Objectives
