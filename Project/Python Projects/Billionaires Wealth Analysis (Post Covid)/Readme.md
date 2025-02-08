@@ -83,7 +83,7 @@ Ensuring region names, industry sectors, and age groups follow consistent format
 
 Identifying extreme fluctuations in wealth over time
 
-Data Transformation & Processing
+## Data Transformation & Processing
 
 ### Data Aggregation:
 
