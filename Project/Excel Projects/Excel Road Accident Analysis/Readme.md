@@ -1,12 +1,23 @@
 # Excel-Road-Accident-Analysis
-1. Project Overview & Objectives
 
-Business Problem/Objective:
+## Table of Contents
+- [Porject Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Project-Overview--Objectives)
+- [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Data-Collection-Requirements)
+- [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Data-Cleaning--Preparation)
+- [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Data-Transformation--Processing)
+- [Data Security & Compliance](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Data-Security--Compliance)
+- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Data-Analysis--Modeling-Requirements) 
+- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Data-Visualization--Reporting)
+- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Road%20Accident%20Analysis/Readme.md#Interpretation--Insights-Presentation)
+
+## Project Overview & Objectives
+
+### Business Problem/Objective:
 
 Analyze road accident data to identify trends, risk factors, and areas for safety improvement.
 
 
-Key Questions:
+### Key Questions:
 
 What is the total number of casualties and their severity (fatal, serious, slight)?
 What types of vehicles are most involved in accidents?
@@ -16,18 +27,19 @@ Stakeholders:
 
 Traffic authorities, policymakers, insurance companies, and emergency response teams.
 
-2. Data Collection Requirements
+## Data Collection Requirements
 
 Data Sources: Likely sourced from government accident reports, transportation agencies, and traffic monitoring databases.
 Data Format: Structured (Excel, Power BI dashboard).
-Data Volume & Frequency:
+
+### Data Volume & Frequency:
 
 Covers multiple years (2021-2023).
 Monthly breakdown of casualties.
 Data Access & Permissions: No restrictions.
 Missing or Incomplete Data Handling: Corrected entry errors on columns Accident Severity (Fetal to Fatal) and Junction Control (Auto traffic sigl to Auto traffic signal).
 
-3. Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Handling Missing Values: Not applicable.
 Removing Duplicates: Not applicable.
@@ -42,7 +54,7 @@ Standardizing Data:
 Replaced the Slip Road data with On ramps in column Junction Detail.
 Detecting Outliers: Not Applicable.
 
-4. Data Transformation & Processing
+## Data Transformation & Processing
 
 Data Aggregation: Casualties are summarized by severity, vehicle type, road type, location, and light condition.
 Feature Engineering: Not Applicable.
@@ -50,52 +62,57 @@ Normalization/Scaling: Not required for visualization, but needed for statistica
 Data Merging & Integration: Multiple datasets (vehicle types, weather, road conditions) are combined.
 Language Translation: Not required (all data in English), see Standardizing Data.
 
-5. Data Security & Compliance
+## Data Security & Compliance
 
 Data Privacy Considerations: No personally identifiable information (PII) is displayed.
 Regulatory Compliance: Must comply with transportation safety and data-sharing policies.
 Data Encryption & Security: Not Applicable.
 Backup & Recovery Plan: Not Applicable.
 
-6. Data Analysis & Modeling Requirements
+## Data Analysis & Modeling Requirements
 
-Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 
 Year-over-year trends.
 Distribution of casualties by vehicle type, road type, and conditions.
 Statistical Methods: Trend analysis: Not used, but further methods like regression or clustering could be applied.
 Machine Learning Models: Not used visible but could be put in place for accident prediction.
-Business Metrics & KPIs:
+
+### Business Metrics & KPIs:
 
 Total casualties.
 Percentage of fatal, serious, and slight injuries.
 Accident trends over time.
-7. Data Visualization & Reporting
+
+## Data Visualization & Reporting
 
 Visualization Tools: Excel.
 Report Format: Interactive dashboard with filters.
 Target Audience: Transportation safety authorities, and policymakers.
 Interactivity Needs: Users can filter by date and rural/urban locations.
 
-8. Interpretation & Insights Presentation
+## Interpretation & Insights Presentation
 
-Key Findings:
+### Key Findings:
 
 The majority of casualties are slight injuries (351,436 out of 417,883).
 Cars contribute to most accidents (333,485 casualties).
 Roadway accidents dominate over freeways and roundabouts.
 More accidents occur in urban areas.
 Dry roads have the highest number of accidents.
-Actionable Recommendations:
+
+### Actionable Recommendations:
 
 Increase safety measures in urban areas.
 Improve visibility and signage on roadways.
 Implement stricter regulations for car drivers.
-Limitations & Assumptions:
+
+### Limitations & Assumptions:
 
 The dataset does not account for the driver's condition at the time of the accident (e.g., sober, under the influence of alcohol or drugs).
 The time of accidents lacks detailed granularity, which may limit insights into peak accident hours or specific time-based patterns.
-Next Steps & Future Work:
+
+### Next Steps & Future Work:
 
 Apply machine learning to predict accident hotspots.
 Integrate more granular weather data.
