@@ -1,7 +1,7 @@
 # Excel-Coffee-Shop-Sales-Analysis
 
 ## Table of Contents
-- [Porject Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Coffee%20Shop%20Sales%20Dashboard/Readme.md#Project-Overview--Objectives)
+- [Project Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Coffee%20Shop%20Sales%20Dashboard/Readme.md#Project-Overview--Objectives)
 - [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Coffee%20Shop%20Sales%20Dashboard/Readme.md#Data-Collection-Requirements)
 - [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Coffee%20Shop%20Sales%20Dashboard/Readme.md#Data-Cleaning--Preparation)
 - [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Excel%20Projects/Excel%20Coffee%20Shop%20Sales%20Dashboard/Readme.md#Data-Transformation--Processing)
@@ -25,7 +25,9 @@ Which countries generate the most sales?
 Who are the top customers?
 What roast types and sizes are most popular?
 
-Stakeholders: Management, sales teams, and marketing departments.
+### Stakeholders: 
+
+Management, sales teams, and marketing departments.
 
 ## Data Collection Requirements
 
@@ -52,26 +54,64 @@ Not explicitly shown but could be handled through imputation or filtering.
 
 ## Data Cleaning & Preparation
 
-Handling Missing Values: Not explicitly visible, but methods may include interpolation.
-Removing Duplicates: Likely done to ensure unique sales records.
-Correcting Data Types: Dates, currency, and categorical variables are formatted properly.
-Standardizing Data: USD is the consistent currency; weight categories are standardized.
-Detecting Outliers: Some spikes in sales might indicate anomalies.
+### Handling Missing Values: 
+
+Not explicitly visible, but methods may include interpolation.
+
+### Removing Duplicates: 
+
+Likely done to ensure unique sales records.
+
+### Correcting Data Types: 
+
+Dates, currency, and categorical variables are formatted properly.
+
+### Standardizing Data: 
+
+USD is the consistent currency; weight categories are standardized.
+
+### Detecting Outliers: 
+
+Some spikes in sales might indicate anomalies.
 
 ## Data Transformation & Processing
 
-Data Aggregation: Sales are grouped by country, customer, and time period.
-Feature Engineering: Roast type, size, and loyalty card usage are key attributes.
-Normalization/Scaling: Sales amounts appear to be scaled in USD.
-Data Merging & Integration: No external data integration is evident.
-Language Translation: Not applicable.
+### Data Aggregation: 
+
+Sales are grouped by country, customer, and time period.
+
+### Feature Engineering: 
+
+Roast type, size, and loyalty card usage are key attributes.
+
+### Normalization/Scaling: 
+
+Sales amounts appear to be scaled in USD.
+
+### Data Merging & Integration: 
+
+No external data integration is evident.
+
+### Language Translation: 
+Not applicable.
 
 ## Data Security & Compliance
 
-Data Privacy Considerations: Top customers are named, so anonymization may be needed.
-Regulatory Compliance: GDPR may apply if European data is stored.
-Data Encryption & Security: Assumed to be internally secured.
-Backup & Recovery Plan: Not visible in the dashboard.
+### Data Privacy Considerations: 
+
+Top customers are named, so anonymization may be needed.
+
+### Regulatory Compliance: 
+
+GDPR may apply if European data is stored.
+
+### Data Encryption & Security: 
+
+Assumed to be internally secured.
+
+### Backup & Recovery Plan: 
+
+Not visible in the dashboard.
 
 ## Data Analysis & Modeling Requirements
 
@@ -86,9 +126,9 @@ Top customers
 Likely time series analysis for trend identification
 Comparative analysis of sales by category
 
-Machine Learning Models (if applicable):
+### Machine Learning Models:
 
-Not evident in the dashboard.
+Not applicable.
 
 ### Business Metrics & KPIs:
 
@@ -96,10 +136,21 @@ Sales revenue, customer ranking, and country-wise distribution.
 
 ## Data Visualization & Reporting
 
-Visualization Tools: Excel.
-Report Format: Interactive dashboard.
-Target Audience: Sales and marketing teams.
-Interactivity Needs: Users can filter by time period, roast type, size, and loyalty status.
+### Visualization Tools: 
+
+Excel.
+
+### Report Format: 
+
+Interactive dashboard.
+
+### Target Audience:
+
+Sales and marketing teams.
+
+### Interactivity Needs: 
+
+Users can filter by time period, roast type, size, and loyalty status.
 
 ## Interpretation & Insights Presentation
 
