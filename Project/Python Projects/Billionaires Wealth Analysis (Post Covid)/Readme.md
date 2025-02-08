@@ -2,13 +2,13 @@
 
 ## Table of Contents
 - [Project Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Project-Overview--Objectives)
-- [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Collection-Requirements)
-- [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Cleaning--Preparation)
-- [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Transformation--Processing)
-- [Data Security & Compliance](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Security--Compliance)
-- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Analysis--Modeling-Requirements) 
-- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Visualization--Reporting)
-- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Interpretation--Insights-Presentation)
+- [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Collection-Requirements)
+- [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Cleaning--Preparation)
+- [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Transformation--Processing)
+- [Data Security & Compliance](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Security--Compliance)
+- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Analysis--Modeling-Requirements) 
+- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Data-Visualization--Reporting)
+- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Python%20Projects/Billionaires%20Wealth%20Analysis%20(Post%20Covid)/Readme.md#Interpretation--Insights-Presentation)
 
 ## Project Overview & Objectives
 
