@@ -55,7 +55,7 @@ Likely internal access for authorized personnel
 
 Might require interpolation or imputation for missing months
 
-$Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 ### Handling Missing Values:
 
