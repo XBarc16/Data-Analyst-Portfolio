@@ -1,14 +1,14 @@
 # Plants-Sales-Performance-Dashboard
 
 ## Table of Contents
-- [Project Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/blob/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Project-Overview--Objectives)
-- [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/blob/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Collection-Requirements)
-- [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/blob/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Cleaning--Preparation)
-- [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/blob/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Transformation--Processing)
-- [Data Security & Compliance](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/blob/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Security--Compliance)
-- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/blob/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Analysis--Modeling-Requirements) 
-- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/blob/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Visualization--Reporting)
-- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/edit/blob/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Interpretation--Insights-Presentation)
+- [Project Overview & Objectives](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Project-Overview--Objectives)
+- [Data Collection Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Collection-Requirements)
+- [Data Cleaning & Preparation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Cleaning--Preparation)
+- [Data Transformation & Processing](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Transformation--Processing)
+- [Data Security & Compliance](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Security--Compliance)
+- [Data Analysis & Modeling Requirements](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Analysis--Modeling-Requirements) 
+- [Data Visualization & Reporting](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Data-Visualization--Reporting)
+- [Interpretation & Insights Presentation](https://github.com/XBarc16/Data-Analyst-Portfolio/blob/main/Project/Power%20BI%20Projects/Plants%20Sales%20Performance%20Dashboard/Readme.md#Interpretation--Insights-Presentation)
 
   
 ## Project Overview & Objectives
